@@ -1,0 +1,6 @@
+
+CREATE TABLE [new]
+( 
+	[column]             char(18)  NULL 
+)
+go
